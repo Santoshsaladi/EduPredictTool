@@ -13,6 +13,12 @@ The **EDU Predict Tool** is a comprehensive data science project aimed at foreca
 
 ---
 
+- **Data Source:** Raw enrollment & funding datasets.  
+- **Data Processing:** Python for cleaning, transformation, and feature engineering.  
+- **Modeling:** SARIMAX model applied to forecast enrollment under multiple scenarios.  
+- **Visualization:** Power BI dashboard for interactive analytics.  
+- **Deployment:** Dashboard hosted with GitHub Pages (Tailwind CSS front-end).  
+
 ## 📂 Repository Structure
 
 ```
