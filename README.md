@@ -72,6 +72,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 For questions, feedback, or contributions, please reach out:
 
-* **Venkata Naga Sai Priyanka Boddoju**
-  📧 [priyankaboddoju@gmail.com](mailto:priyankaboddoju@gmail.com)
-  🌐 [GitHub](https://github.com/priyankaboddoju)
+* **Santosh Kumar Saladi**
+  📧 [saladisantoshkumar@gmail.com](mailto:saladisantoshkumar@gmail.com)
+  🌐 [GitHub](https://github.com/Santoshsaladi)
