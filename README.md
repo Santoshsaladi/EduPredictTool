@@ -53,8 +53,8 @@ To interact with the dashboard directly:
 
 ## 👥 Contributors
 
-* **Venkata Naga Sai Priyanka Boddoju** (Team Lead, Data Engineer)
-* **Santosh Kumar Saladi** (Machine Learning Engineer)
+* **Santosh Kumar Saladi** (Team Lead, Data Engineer)
+* **Venkata Naga Sai Priyanka Boddoju** (Machine Learning Engineer)
 * **Harika Suravarapu** (Data Engineer)
 * **Sai Krishna Turangi** (Data Analyst)
 * **Krishna Chaitanya Vutukuru** (Machine Learning Engineer)
